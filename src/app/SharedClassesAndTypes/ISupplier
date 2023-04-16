@@ -1,0 +1,9 @@
+export interface ISupplier{
+  ID:number,
+  SSN:number,
+  SSNImageName:string,
+  VerifecationState:string,
+  TotalSales:number,
+  AccountNumber:string,
+  ApplicationUserId:string,
+}

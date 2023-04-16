@@ -1,0 +1,10 @@
+export interface IOrder{
+  ID:number,
+  Date:Date,
+  TotalPrice:number,
+  PaidMethod:string,
+  CreditNumber:string,
+  OrderState:string,
+  CustomerID:number,
+  DeliveryID:number
+}

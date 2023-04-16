@@ -1,0 +1,7 @@
+export interface IReview{
+  ID:number,
+  Supplier_ProductID:number,
+  ReviewText:string,
+  Date:Date,
+  CustomerId:number,
+}

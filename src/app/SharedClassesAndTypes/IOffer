@@ -1,0 +1,7 @@
+export interface IOffer{
+  ID:number,
+  Name:string,
+  StartDate:Date,
+  EndDate:Date,
+  OfferPercentage:number,
+}

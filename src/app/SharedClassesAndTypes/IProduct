@@ -1,0 +1,8 @@
+export interface IProduct{
+  ID:number,
+  Name:string,
+  Description:string,
+  ImageName:string,
+  CategoryID:number,
+  BrandID:number,
+}

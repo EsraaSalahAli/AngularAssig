@@ -1,0 +1,7 @@
+export interface ICart{
+  ID:number,
+  CustomerID:number,
+  Supplier_ProductID:number,
+  Quantity:number,
+  TotalPrice:number
+}

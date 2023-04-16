@@ -1,0 +1,10 @@
+export interface ISupplier_Product{
+  ID:number,
+  ProductID:number,
+  SupplierID:number,
+  Quantity:number,
+  Price:number,
+  PointsForProduct:number,
+  Specfications:string,
+  OfferID:number,
+}

@@ -1,0 +1,7 @@
+export interface IOrder_Details{
+  ID:number,
+  OrderID:number,
+  Quantity:number,
+  Supplier_ProductID:number,
+  TotalPrice:number,
+}
